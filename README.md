@@ -2,6 +2,5 @@
 
 Hello Human, 
 
-I am Hanis. I am not a robot but not a human.
-However I love myself.
+I love rice and meat.
 
